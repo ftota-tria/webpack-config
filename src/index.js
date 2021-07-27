@@ -4,4 +4,11 @@ const elvenShiedlRecipe = {
     refinedMoonstone: 4
 }
 
+const elvenGauntletsRecipe = {
+    ...elvenShiedlRecipe,
+    lether: 1,
+    refinedMoonstone: 4,
+}
+
 console.log(`elvenShiedlRecipe`, elvenShiedlRecipe)
+console.log(`elvenGauntletsRecipe`, elvenGauntletsRecipe)
