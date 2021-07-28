@@ -38,8 +38,6 @@ const Recipes = () => {
       </ul>
     </div>
   );
-
-  return <div></div>;
 };
 
 export default Recipes;
